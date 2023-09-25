@@ -5,3 +5,5 @@ En el codigo inicial de esta actividad, el evento del movimiento del raton es us
 Como trabajo a futuro se considera utilizar el evento "onclick" para simular el pestañeo de ambos ojos.
 
 Para desplegar este ejercicio, abrir el archivo "eyes.html" en Google Chrome o Firefox.
+
+Repositorio posee una licencia de MIT
